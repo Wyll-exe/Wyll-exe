@@ -23,7 +23,7 @@ def modifier_statut_todo():
     if 0 <= todo_index < len(todo_list):
         if todo_list[todo_index]["Fait"]:
           todo_list[todo_index]["Fait"] = False
-          print("Le todo à maintenant le statut 'à Fair'")
+          print("Le todo à maintenant le statut 'à Faire'")
         else:
           todo_list[todo_index]["Fait"] = True
           print("Le todo à maintenant le statut 'Fait'")
