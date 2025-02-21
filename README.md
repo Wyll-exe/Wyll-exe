@@ -1,7 +1,7 @@
-<h1 align="center">👨🏽‍🎓 ~ A propos de moi :</h1>
+<h1 align="center">👨🏽‍🎓 ~ À propos de William :</h1>
 
 
-<h3 align="center">🤓 /-/ J'aime apprendre , comprendre et maitriser des technologies.</h3>
+<h3 align="center">Développeur Fullstack</h3>
 
 
 
