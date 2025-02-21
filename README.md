@@ -1,7 +1,7 @@
 <h1 align="center">👨🏽‍🎓 ~ À propos de William :</h1>
 
 
-<h3 align="center">Développeur Fullstack</h3>
+<h3 align="center"> <u> Développeur Fullstack </u> </h3>
 
 
 
