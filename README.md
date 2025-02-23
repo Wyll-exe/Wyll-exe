@@ -1,4 +1,4 @@
-<h1 align="center">👨🏽‍🎓 ~ À propos de William (Moi) :</h1>
+<h1 align="center">👨🏽‍🎓 ~ À propos de William (moi) :</h1>
 
 
 <h3 align="center"> <u> Développeur Fullstack </u> </h3>
