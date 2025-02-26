@@ -22,8 +22,7 @@
 <h3 align="center">Framesworks et Bibliothèques :</h3>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<img src="https://media.licdn.com/dms/image/D5612AQGgOrcWyxT6fg/article-cover_image-shrink_600_2000/0/1662446193162?e=2147483647&v=beta&t=MUUJpU6L5cULlw5e_0qICQZOiNeFyGCqoOSoCNsIBrg" alt="tailwind" width="40" height="40"/>
-
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
 
 
