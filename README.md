@@ -19,6 +19,14 @@
  <p align="center"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
 
+<h3 align="center">Framesworks et Bibliothèques :</h3>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<img src="https://media.licdn.com/dms/image/D5612AQGgOrcWyxT6fg/article-cover_image-shrink_600_2000/0/1662446193162?e=2147483647&v=beta&t=MUUJpU6L5cULlw5e_0qICQZOiNeFyGCqoOSoCNsIBrg" alt="tailwind" width="40" height="40"/>
+
+
+
+
 <h3 align="center">Logiciels :</h3>
 
  <p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
