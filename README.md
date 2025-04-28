@@ -1,6 +1,6 @@
 # Hi, I'm William ! 👋
 
-- 🔭 I’m currently working on Reddit project
+- 🔭 Je travaille actuellement sur un projet reddit.
 
 - 🌱 Je suis étudiant à Hetic.
 
