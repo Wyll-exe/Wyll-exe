@@ -1,6 +1,6 @@
 # Hi, I'm William ! 👋
 
-- 🔭 Je travaille actuellement sur un projet reddit.
+- 🔭 Je travaille actuellement sur un projet en ThreeJS
 
 - 🌱 Je suis étudiant à Hetic.
 
