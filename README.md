@@ -1,4 +1,4 @@
-# Hi, I'm William !! 👋
+# Hi, I'm William ! 👋
 
 - 🔭 Je travaille actuellement sur un projet en ThreeJS.
 
