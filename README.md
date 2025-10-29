@@ -1,10 +1,8 @@
-# Hi, I'm William !! 👋
+# Will 👋
 
-- 🔭 Je travaille actuellement sur un projet en ThreeJS.
+- 🔭 J'essai actuellement de terminer un projet en ThreeJS.
 
-- 🌱 Je suis étudiant à Hetic.
-
-## Développeur Fullstack 💻
+## Développeur Fullstack parfois
 
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,python,react,php,symfony,vite,tailwind,css,html,mongodb,mysql,,,,,,git,figma,blender,github,discord,vscode,unity)
 
